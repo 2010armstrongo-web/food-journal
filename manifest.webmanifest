@@ -1,0 +1,9 @@
+{
+  "name": "Food Journal",
+  "short_name": "Food Journal",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f0",
+  "theme_color": "#f6f5f0",
+  "icons": []
+}
